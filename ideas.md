@@ -27,6 +27,12 @@ do(stalkher);
 
 dont(stop); 
 
+# similar to a program that destroys itself
+
+# ends in something that's just quietly sad: 
+
+# bye 
+
 
 
 *** black box
