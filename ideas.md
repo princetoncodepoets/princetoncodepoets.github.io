@@ -7,7 +7,7 @@ poems ?
 ?
 
 *** anatomy of a bad habit 
-==========================
+--------------------------
 
 void do( abadhabit ) {
 
