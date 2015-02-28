@@ -7,5 +7,15 @@ poems ?
 ?
 
 *** anatomy of a bad habit 
+==========================
+
+void do( abadhabit ) {
+
+while (true) {
+  abadhabit++ ; 
+}
+
+}
+
 
 
