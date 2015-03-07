@@ -5,6 +5,8 @@ poems ?
 ? ?? ?? ? ???? ??????
 ??
 ?
+*** in R: address libraries: address packages - address the books in the libraries
+===================================
 
 *** blunt: declarative 
 ================================
