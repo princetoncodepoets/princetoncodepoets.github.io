@@ -7,6 +7,7 @@ poems ?
 ?
 
 *** blunt: declarative 
+================================
 (namkyu, 3/6)
 
 a code poem is not poetry because of its code or its apis: it is a code poem because of what it is in its totality; in its whole affectation on the person who interprets it: it stays blown up, as a big thing - they work on two different scalar planes
